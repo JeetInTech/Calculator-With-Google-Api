@@ -18,7 +18,7 @@ This is a simple language translator web application built using pure HTML, CSS,
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/Venkateeshh/Js-Language-Translator.git
+gh repo clone JeetInTech/Calculator-With-Google-Api
 ```
 
 2. Open the `index.html` file in your web browser.
