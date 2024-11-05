@@ -18,7 +18,7 @@ This is a simple language translator web application built using pure HTML, CSS,
 1. Clone the repository to your local machine:
 
 ```bash
-gh repo clone JeetInTech/Calculator-With-Google-Api
+gh repo clone JeetInTech/Translator-With-Google-Api
 ```
 
 2. Open the `index.html` file in your web browser.
